@@ -26,7 +26,6 @@ code {
 /* Sticky footer method
 -------------------------------------------------- */
 .footer.navbar-default.navbar-fixed-bottom {
-  /*height: 60px;*/
   background-color:#f5f5f5;
   padding:1em 0;
  }
@@ -35,7 +34,7 @@ code {
 }
 body {
   padding-bottom:60px;
-  /*padding behind navbar to allow for scroll*/
+  /*padding behind bottom navbar to allow for scroll*/
 }
 
 /* Responsive table styles
