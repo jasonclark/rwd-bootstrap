@@ -19,6 +19,9 @@ code {
   content:" *";
   color:red;
 }
+.top-buffer {
+  margin-top:10px;
+}
 
 /* Sticky footer method
 -------------------------------------------------- */
@@ -29,6 +32,10 @@ code {
  }
 .footer.navbar-default.navbar-fixed-bottom p {
   margin:0;
+}
+body {
+  padding-bottom:60px;
+  /*padding behind navbar to allow for scroll*/
 }
 
 /* Responsive table styles
