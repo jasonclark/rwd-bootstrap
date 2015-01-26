@@ -27,6 +27,7 @@ code {
 -------------------------------------------------- */
 .footer.navbar-default.navbar-fixed-bottom {
   background-color:#f8f8f8;
+  border-top:1px #e7e7e7 solid;
   padding:1em 0;
  }
 .footer.navbar-default.navbar-fixed-bottom p {
